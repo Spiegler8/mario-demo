@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: mario
-        image: pengbai/docker-supermario:1.0
+        image: gcr.io/google-samples/hello-app:1.0
         ports:
         - containerPort: 8080
 ---
