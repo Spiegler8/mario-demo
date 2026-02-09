@@ -4,7 +4,7 @@ metadata:
   name: mario
   namespace: default
 org: develeap
-gvc: REPLACE_WITH_GVC_NAME
+gvc: neolithics-demo-gvc
 description: Mario demo workload
 spec:
   type: serverless
