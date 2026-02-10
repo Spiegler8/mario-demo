@@ -10,7 +10,7 @@ spec:
   type: serverless
   containers:
     - name: mario
-      image: lamw/pacman-nodejs-app
+      image: pengbai/docker-supermario
       cpu: 200m
       memory: 256Mi
       ports:
